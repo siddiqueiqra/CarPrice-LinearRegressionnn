@@ -1,2 +1,3 @@
 # CarPrice-LinearRegression
-- This repository holds the analysis using Linear regression analysis is used to predict the value of a carprice based on the value of another independent variable.
+- This repository holds the analysis done on car dataset using Linear regression
+- Used to predict the value of a carprice based on the value of another independent variable.
